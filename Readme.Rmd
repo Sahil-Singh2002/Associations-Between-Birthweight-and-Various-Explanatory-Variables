@@ -1,3 +1,11 @@
+#Above you will see a file called ReadME.pdf <----- That is the actual readme file you should read.
+
+
+
+
+
+
+
 ---
 title: Statistical Report on Associations Between Birthweight and Various Explanatory
   Variables
