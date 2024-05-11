@@ -4,7 +4,7 @@ title: Statistical Report on Associations Between Birthweight and Various Explan
 author: "Sahil"
 date: "27/03/24"
 output:
-  pdf_document: default
+  pdf_document: Default
 ---
 
 ```{r setup, include=FALSE}
